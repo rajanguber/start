@@ -1,0 +1,1 @@
+This is dummy text for the fix_commit_messages example.
