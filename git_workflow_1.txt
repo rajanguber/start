@@ -1,1 +1,4 @@
 This is example text about git workflow
+
+
+This is test for Shin
