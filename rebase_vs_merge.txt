@@ -1,2 +1,2 @@
 rebase vs merge example text.
-changed!
+changed 1!!
