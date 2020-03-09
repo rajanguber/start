@@ -1,1 +1,2 @@
 This is dummy text for the push example.
+Changing another file for rebasing example
