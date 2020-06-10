@@ -1,3 +1,4 @@
 rebase vs merge example text.
 changed 1!!
 change hh
+change 2
