@@ -1,4 +1,4 @@
 This is example text about git workflow
 
 aaa
-This is test for Shin
+This is test for Shinchan!
